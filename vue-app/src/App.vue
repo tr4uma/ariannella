@@ -4,7 +4,7 @@
       alt="Vue logo"
       src="./assets/logo.png"
     >
-    <HelloWorld msg="Welcome to Your Vue.js Appssss" />
+    <HelloWorld msg="Welcome to Your Vue.js Appssssaaaa" />
   </div>
 </template>
 
