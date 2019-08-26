@@ -16,7 +16,14 @@
         "express": "~4.16.1",
         "http-errors": "~1.6.3",
         "morgan": "~1.9.1",
-        "pug": "2.0.0-beta11"
+        "pug": "2.0.0-beta11",
+        "@vue/cli-plugin-babel": "^3.11.0",
+        "@vue/cli-plugin-eslint": "^3.11.0",
+        "@vue/cli-service": "^3.11.0",
+        "babel-eslint": "^10.0.1",
+        "eslint": "^5.16.0",
+        "eslint-plugin-vue": "^5.0.0",
+        "vue-template-compiler": "^2.6.10"
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "^3.11.0",
