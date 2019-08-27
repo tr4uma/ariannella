@@ -28,7 +28,8 @@ Scherzavo.`,
 Li prendo tutti`,
         `Fruck!`,
         `Gulpiamo!
-Pfsiuw!`
+Pfsiuw!`,
+        `Già che siamo qua..`
       ]
     }
   }
