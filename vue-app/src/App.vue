@@ -29,7 +29,8 @@ Li prendo tutti`,
         `Fruck!`,
         `Gulpiamo!
 Pfsiuw!`,
-        `Già che siamo qua..`
+        `Già che siamo qua..`,
+        `Ma scemelli!!`
       ]
     }
   }
