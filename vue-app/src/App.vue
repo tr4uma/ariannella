@@ -30,7 +30,8 @@ Li prendo tutti`,
         `Gulpiamo!
 Pfsiuw!`,
         `Già che siamo qua..`,
-        `Ma scemelli!!`
+        `Ma scemelli!!`,
+        `No ragazzi, stasera no. Ho il sushi con le amiche`
       ]
     }
   }
